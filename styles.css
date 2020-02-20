@@ -26,3 +26,11 @@
 .bg-dark {
   background-color: #000000 !important;
 }
+.applewatch.jpg{
+  background-image: url("applewatch.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:100px;
+}
