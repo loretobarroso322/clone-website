@@ -1,0 +1,28 @@
+.phone11p-bg {
+  background-image: url("iphone11p.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:100px;
+}
+.phone11-bg{
+  background-image: url("iphone11.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:100px;
+}
+.appletv-bg{
+  background-image: url("appletv.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:150px;
+  padding-bottom:100px;
+}
+
+.bg-dark {
+  background-color: #000000 !important;
+}
